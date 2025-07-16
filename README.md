@@ -74,14 +74,6 @@ Feel free to open issues and pull requests for:
 - Documentation improvements
 - Security enhancements
 
-## 📝 License
-
-MIT License - feel free to use this project for your own purposes!
-
 ## ⚠️ Disclaimer
 
 This tool executes system commands and modifies files. Please review any generated code or commands before execution in a production environment.
-
----
-
-Made with ❤️ by [Your Name]
